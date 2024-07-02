@@ -1,0 +1,10 @@
+module divisor(
+    input   clk_i;
+	 input   rst_ni;
+	 
+	 output  clk_o;
+	 
+	 wire    cuenta;
+);
+
+endmodule 

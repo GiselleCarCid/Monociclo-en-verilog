@@ -1,0 +1,8 @@
+module aluctrl (
+
+	input 					f7_i,
+	input				[2:0]	f3_i,
+	input				[4:0]	aluop_i,
+	output	reg	[3:0]	aluoperacion_o
+	
+);
